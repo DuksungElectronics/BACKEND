@@ -1,7 +1,7 @@
 ### 무인매장 솔루션 어플리케이션 서버
 무인매장 관리자를 위한 어플리케이션을 위한 서버입니다.
 
-### :smiley: 개발자 
+### :smiley: Developer
 | 박해인 |
 |:------:|
 |<img src="https://github.com/DuksungElectronics/Android_Admin/assets/75514808/5b626c05-63f0-41d2-840b-c1a154929560.png"  width="160" />|
